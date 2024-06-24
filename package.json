@@ -1,0 +1,23 @@
+{
+  "name": "auth-worker-plugin",
+  "version": "1.0.0",
+  "main": "src/auth-worker-plugin.js",
+  "description": "Plugin per la gestione dell'autenticazione",
+  "license": "proprietary",
+  "scripts": {},
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@gitserver.sietelspa.local:desknet-developers/desknet-modules/auth-worker-plugin.git"
+    }
+  ],
+  "authors": [
+    {
+      "name": "desknet",
+      "email": "admin@desknet.loc"
+    }
+  ],
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
